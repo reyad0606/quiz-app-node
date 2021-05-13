@@ -1,11 +1,10 @@
 {
   "folders": [
-	{
-		"path": "."
-	},
-	{
-		"path": "../../ITP-R/quiz-app-react"
-	}
-],
-  "settings": {}
+    {
+      "path": "."
+    },
+    {
+      "path": "../../ITP-R/quiz-app-react"
+    }
+  ]
 }
